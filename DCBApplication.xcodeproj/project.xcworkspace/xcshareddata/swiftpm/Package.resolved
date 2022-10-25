@@ -5,7 +5,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DVS-devtools/DCBApiExtSDK.git",
       "state" : {
-        "revision" : "01d26f9662edb66f8d239e383e5af54714b274f6",
+        "revision" : "fe9a73927734289deb441bc2ca085a4c4c1d8a18",
         "version" : "5.0.0"
       }
     },
@@ -14,7 +14,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DVS-devtools/DCBApiExtSDKPackage",
       "state" : {
-        "revision" : "d0a36691ac3c583b66a75963b0140b07e654bfdc",
+        "revision" : "81b6960e93054493df08e2761de325d63b2e933b",
         "version" : "5.0.0"
       }
     },

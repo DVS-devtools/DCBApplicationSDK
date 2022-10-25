@@ -15,7 +15,7 @@
 		519BC432241FB563009658BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 519BC430241FB563009658BD /* Main.storyboard */; };
 		519BC434241FB567009658BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 519BC433241FB567009658BD /* Assets.xcassets */; };
 		519BC437241FB567009658BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 519BC435241FB567009658BD /* LaunchScreen.storyboard */; };
-		CA23656829083DCD00E5FB29 /* DCBApiExtSDKPackage in Frameworks */ = {isa = PBXBuildFile; productRef = CA23656729083DCD00E5FB29 /* DCBApiExtSDKPackage */; };
+		CA4F3B7829084B4200874CAB /* DCBApiExtSDKPackage in Frameworks */ = {isa = PBXBuildFile; productRef = CA4F3B7729084B4200874CAB /* DCBApiExtSDKPackage */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +37,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CA23656829083DCD00E5FB29 /* DCBApiExtSDKPackage in Frameworks */,
+				CA4F3B7829084B4200874CAB /* DCBApiExtSDKPackage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -111,7 +111,7 @@
 			);
 			name = "Application for DCB";
 			packageProductDependencies = (
-				CA23656729083DCD00E5FB29 /* DCBApiExtSDKPackage */,
+				CA4F3B7729084B4200874CAB /* DCBApiExtSDKPackage */,
 			);
 			productName = "Application for DCB";
 			productReference = 519BC428241FB563009658BD /* Application for DCB.app */;
@@ -144,7 +144,7 @@
 			);
 			mainGroup = 8B5BEA901F0CFC8800CF5209;
 			packageReferences = (
-				CA23656629083DCD00E5FB29 /* XCRemoteSwiftPackageReference "DCBApiExtSDKPackage" */,
+				CA4F3B7629084B4200874CAB /* XCRemoteSwiftPackageReference "DCBApiExtSDKPackage" */,
 			);
 			productRefGroup = 8B5BEA9B1F0CFC8800CF5209 /* Products */;
 			projectDirPath = "";
@@ -424,7 +424,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		CA23656629083DCD00E5FB29 /* XCRemoteSwiftPackageReference "DCBApiExtSDKPackage" */ = {
+		CA4F3B7629084B4200874CAB /* XCRemoteSwiftPackageReference "DCBApiExtSDKPackage" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/DVS-devtools/DCBApiExtSDKPackage";
 			requirement = {
@@ -435,9 +435,9 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		CA23656729083DCD00E5FB29 /* DCBApiExtSDKPackage */ = {
+		CA4F3B7729084B4200874CAB /* DCBApiExtSDKPackage */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = CA23656629083DCD00E5FB29 /* XCRemoteSwiftPackageReference "DCBApiExtSDKPackage" */;
+			package = CA4F3B7629084B4200874CAB /* XCRemoteSwiftPackageReference "DCBApiExtSDKPackage" */;
 			productName = DCBApiExtSDKPackage;
 		};
 /* End XCSwiftPackageProductDependency section */
