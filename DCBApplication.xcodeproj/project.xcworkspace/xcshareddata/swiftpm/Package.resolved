@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "dcbapiextsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DVS-devtools/DCBApiExtSDK.git",
+      "state" : {
+        "revision" : "01d26f9662edb66f8d239e383e5af54714b274f6",
+        "version" : "5.0.0"
+      }
+    },
+    {
+      "identity" : "dcbapiextsdkpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DVS-devtools/DCBApiExtSDKPackage",
+      "state" : {
+        "revision" : "d0a36691ac3c583b66a75963b0140b07e654bfdc",
+        "version" : "5.0.0"
+      }
+    },
+    {
+      "identity" : "newtonsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DVS-devtools/NewtonSDK.git",
+      "state" : {
+        "revision" : "66ffede3c9daccada5a191d2c6784cc3fb33ef57",
+        "version" : "5.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
